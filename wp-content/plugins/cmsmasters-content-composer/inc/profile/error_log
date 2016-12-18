@@ -1,0 +1,2 @@
+[08-May-2016 04:53:34 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/booking/public_html/starMall/wp-content/plugins/cmsmasters-content-composer/inc/profile/profiles-posttype.php on line 184
+[07-Oct-2016 06:13:27 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/starmall/public_html/wp-content/plugins/cmsmasters-content-composer/inc/profile/profiles-posttype.php on line 184

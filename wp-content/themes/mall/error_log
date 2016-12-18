@@ -1,0 +1,4 @@
+[10-May-2016 09:35:03 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/booking/public_html/starMall/wp-content/themes/mall/index.php on line 13
+[11-May-2016 09:40:21 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/booking/public_html/starMall/wp-content/themes/mall/index.php on line 13
+[11-Jul-2016 15:02:01 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/booking/public_html/starMall/wp-content/themes/mall/index.php on line 13
+[10-Aug-2016 08:26:52 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/starmall/public_html/wp-content/themes/mall/index.php on line 13

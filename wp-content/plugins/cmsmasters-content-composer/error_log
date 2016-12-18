@@ -1,0 +1,2 @@
+[06-May-2016 20:53:46 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/booking/public_html/starMall/wp-content/plugins/cmsmasters-content-composer/cmsmasters-content-composer.php on line 38
+[25-Aug-2016 01:51:43 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/starmall/public_html/wp-content/plugins/cmsmasters-content-composer/cmsmasters-content-composer.php on line 38

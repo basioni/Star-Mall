@@ -1,0 +1,2 @@
+[08-May-2016 00:09:49 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home/booking/public_html/starMall/wp-content/plugins/cmsmasters-content-composer/framework/inc/editor-additions.php on line 27
+[03-Oct-2016 22:22:52 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home/starmall/public_html/wp-content/plugins/cmsmasters-content-composer/framework/inc/editor-additions.php on line 27

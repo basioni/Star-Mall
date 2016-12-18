@@ -1,0 +1,2 @@
+[07-May-2016 16:35:49 America/Chicago] PHP Fatal error:  Call to undefined function add_shortcode() in /home/booking/public_html/starMall/wp-content/plugins/cmsmasters-content-composer/inc/shortcodes.php on line 199
+[28-Sep-2016 12:15:37 America/Chicago] PHP Fatal error:  Call to undefined function add_shortcode() in /home/starmall/public_html/wp-content/plugins/cmsmasters-content-composer/inc/shortcodes.php on line 199

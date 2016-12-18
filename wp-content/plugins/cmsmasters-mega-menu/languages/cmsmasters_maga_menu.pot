@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CMSMasters Mega Menu 1.2.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-16 18:07+0200\n"
+"PO-Revision-Date: 2014-05-16 18:07+0200\n"
+"Last-Translator: cmsmasters <cmsmstrs@gmail.com>\n"
+"Language-Team: cmsmasters <cmsmstrs@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cmsmasters-mega-menu.php:270
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:273
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:302
+msgid "sub item"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:302
+msgid "mega menu"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:302
+msgid "column"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:302
+msgid "text block"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:334
+msgid "Edit Menu Item"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:343
+msgid "URL"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:350
+msgid "Navigation Label"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:356
+msgid "Title Attribute"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:363
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:368
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:374
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:380
+msgid "Description"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:382
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: cmsmasters-mega-menu.php:388
+msgid "Highlight this menu item"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:393
+msgid "Menu Item Color"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:400
+msgid "Hide this column title"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:406
+msgid "Align drop-down menus to the Right Side"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:412
+msgid "Use as Mega Menu"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:417
+msgid "Mega Menu Columns Count"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:419
+msgid "2 Columns"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:420
+msgid "3 Columns"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:421
+msgid "4 Columns"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:422
+msgid "5 Columns"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:429
+msgid "Stretch Mega Menu columns on full width"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:435
+msgid "Use the description field to create a Text Block."
+msgstr ""
+
+#: cmsmasters-mega-menu.php:435
+msgid "Note: Don't remove the navigation label text, otherwise wordpress will delete the item"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:441
+msgid "Move"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:442
+msgid "Up one"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:443
+msgid "Down one"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:446
+msgid "To the top"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:453
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:466
+msgid "Remove"
+msgstr ""
+
+#: cmsmasters-mega-menu.php:467
+msgid "Cancel"
+msgstr ""
+
